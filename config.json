@@ -1,0 +1,20 @@
+{
+    "params":{
+        "local-server":"True",
+        "local_uri":"mysql://root:@localhost/datablog",
+        "prod_uri":"mysql://root:@localhost/datablog",
+        "fb_url": "https://facebook.com",
+        "tw_url": "https://twitter.com",
+        "git_url": "https://github.com",
+        "blog_name": "Data Blog",
+        "sub_name": "Data Blog",
+        "gmail-user": "diaabi696@gmail.com",
+        "gmail-pass": "Password",
+        "no_of_post": 3,
+        "login_image": "logo.png",
+        "admin_user": "Fillahabi",
+        "admin_password": "5210411172",
+        "upload_location": "D:\\Web\\Flask\\Blog\\static\\img"
+
+    }
+}
